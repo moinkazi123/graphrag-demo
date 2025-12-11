@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pypdf
+neo4j
+langchain-text-splitters
