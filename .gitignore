@@ -1,0 +1,6 @@
+vector_store/
+models/
+__pycache__/
+.env
+venv/
+processing_summary.json
