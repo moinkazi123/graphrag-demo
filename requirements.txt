@@ -1,5 +1,6 @@
 streamlit
-sentence-transformers
+sentence-transformers==2.2.2
+torch==2.0.1
 faiss-cpu==1.7.2
 langchain-text-splitters
 pypdf
