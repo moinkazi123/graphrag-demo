@@ -1,8 +1,8 @@
-streamlit
+streamlit==1.32.0
 sentence-transformers==2.2.2
 torch==2.0.1
 faiss-cpu==1.7.2
-langchain-text-splitters
-pypdf
-neo4j
-numpy
+langchain-text-splitters==0.0.1
+pypdf==3.17.1
+neo4j==5.20.0
+numpy==1.26.4
